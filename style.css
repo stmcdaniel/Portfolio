@@ -1,0 +1,51 @@
+header{
+background-color: darkslategray;
+color: beige;
+font-family: monospace;
+text-align: center;
+padding: 10px;
+margin: -8px;
+
+}
+
+main{
+  background-color: beige;
+  margin: -8px;
+  color: darkslategray;
+  font-family: monospace;
+}
+
+div{
+  padding-top: 75px;
+  padding-bottom: 75px;
+  width: 50%;
+  margin:auto;
+  
+}
+
+hr{
+color: darkslategray;
+}
+
+footer{
+  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color: darkslategray;
+  color: beige;
+  margin:-15px;
+  text-align: center;
+}
+
+p {
+  font-size: 12px;
+}
+
+a{
+  font-family: Arial;
+  font-size: 18px;
+}
+
+a:link    {color: darkslategray;}
+a:visited {color: darkslateblue;}
+a:hover   {color: green;}
+a:active  {color: pink;}
